@@ -48,3 +48,8 @@ pip install -r requisitos.txt
 ```
 
 3. Abra o notebook na pasta `cadernos`
+
+## 👩🏾‍💻 Autora
+
+Thamires Alves  
+Projeto desenvolvido como parte dos estudos em Análise de Dados com Python.
