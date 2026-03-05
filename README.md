@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Análise Exploratória de Dados de Vendas com Python
 
 ## 📌 Sobre o Projeto
@@ -12,10 +13,19 @@ O objetivo é identificar padrões de receita, desempenho de produtos e comporta
 - Gerar insights a partir dos dados
 
 ## 🛠 Tecnologias Utilizadas
+=======
+# 📊 Análise Exploratória de Dados de Vendas
+
+## 📌 Objetivo
+Realizar uma análise exploratória em um conjunto de dados de vendas para identificar padrões, tendências e insights estratégicos.
+
+## 🛠️ Ferramentas utilizadas
+>>>>>>> 628a603956c7e94ae9908e029eb9edd1c67ee975
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
+<<<<<<< HEAD
 - Jupyter Notebook
 
 ## 📂 Estrutura do Projeto
@@ -36,3 +46,20 @@ notebooks/analise.ipynb
 
 ## 👩‍💻 Autora
 Thamires Alves
+=======
+
+
+## 🔎 Etapas da análise
+- Importação e leitura dos dados
+- Tratamento e limpeza
+- Análise exploratória
+- Visualização de dados
+- Extração de insights
+
+## 📈 Principais Insights
+(Em desenvolvimento)
+
+## 🚀 Conclusão
+Projeto desenvolvido com foco em prática de análise exploratória e geração de insights a partir de dados.
+
+>>>>>>> 628a603956c7e94ae9908e029eb9edd1c67ee975
