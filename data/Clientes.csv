@@ -1,0 +1,51 @@
+ID Cliente,Nome,Idade,Cidade,Gasto Medio Mensal
+1,Cliente 1,25,São Paulo,500
+2,Cliente 2,30,Rio de Janeiro,700
+3,Cliente 3,35,Belo Horizonte,1000
+4,Cliente 4,40,Curitiba,1500
+5,Cliente 5,45,Porto Alegre,2000
+6,Cliente 6,50,São Paulo,500
+7,Cliente 7,25,Rio de Janeiro,700
+8,Cliente 8,30,Belo Horizonte,1000
+9,Cliente 9,35,Curitiba,1500
+10,Cliente 10,40,Porto Alegre,2000
+11,Cliente 11,45,São Paulo,500
+12,Cliente 12,50,Rio de Janeiro,700
+13,Cliente 13,25,Belo Horizonte,1000
+14,Cliente 14,30,Curitiba,1500
+15,Cliente 15,35,Porto Alegre,2000
+16,Cliente 16,40,São Paulo,500
+17,Cliente 17,45,Rio de Janeiro,700
+18,Cliente 18,50,Belo Horizonte,1000
+19,Cliente 19,25,Curitiba,1500
+20,Cliente 20,30,Porto Alegre,2000
+21,Cliente 21,35,São Paulo,500
+22,Cliente 22,40,Rio de Janeiro,700
+23,Cliente 23,45,Belo Horizonte,1000
+24,Cliente 24,50,Curitiba,1500
+25,Cliente 25,25,Porto Alegre,2000
+26,Cliente 26,30,São Paulo,500
+27,Cliente 27,35,Rio de Janeiro,700
+28,Cliente 28,40,Belo Horizonte,1000
+29,Cliente 29,45,Curitiba,1500
+30,Cliente 30,50,Porto Alegre,2000
+31,Cliente 31,25,São Paulo,500
+32,Cliente 32,30,Rio de Janeiro,700
+33,Cliente 33,35,Belo Horizonte,1000
+34,Cliente 34,40,Curitiba,1500
+35,Cliente 35,45,Porto Alegre,2000
+36,Cliente 36,50,São Paulo,500
+37,Cliente 37,25,Rio de Janeiro,700
+38,Cliente 38,30,Belo Horizonte,1000
+39,Cliente 39,35,Curitiba,1500
+40,Cliente 40,40,Porto Alegre,2000
+41,Cliente 41,45,São Paulo,500
+42,Cliente 42,50,Rio de Janeiro,700
+43,Cliente 43,25,Belo Horizonte,1000
+44,Cliente 44,30,Curitiba,1500
+45,Cliente 45,35,Porto Alegre,2000
+46,Cliente 46,40,São Paulo,500
+47,Cliente 47,45,Rio de Janeiro,700
+48,Cliente 48,50,Belo Horizonte,1000
+49,Cliente 49,55,Curitiba,1500
+50,Cliente 50,60,Porto Alegre,2000
