@@ -14,9 +14,9 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 
 analise-exploratoria-vendas-python
 │
-├── dados/ → dataset utilizado na análise
-├── cadernos/ → notebooks de análise exploratória
-├── src/ → scripts Python
+├── dados/ → conjunto de dados utilizado na análise
+├── cadernos/ → notebooks com a análise exploratória
+├── src/ → scripts Python auxiliares
 ├── README.md → documentação do projeto
 └── requisitos.txt → bibliotecas utilizadas
 
